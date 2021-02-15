@@ -1,0 +1,1 @@
+Sample project of styling a pricing plan screen with CSS.
